@@ -1,18 +1,18 @@
 module.exports = {
-    sign: "!",
-    admin: ["132368482120499201"],
+    sign: ".",
+    admin: ["241723504620339201"],
 
     economy: {
         range: [1, 3],
         range_media: [2, 4],
-        currency: "cheese",
-        currency_plural: "cheese",
+        currency: "gem",
+        currency_plural: "gems",
         symbol: null,
-        emoji: "🧀"
+        emoji: "💎"
     },
 
     colours: {
-        default: 0xB699FF,
+        default: 0xfff4db,
         success: 0x52C652,
         error: 0xE93F3C,
         warn: 0xF5AD1E,
